@@ -1,0 +1,43 @@
+{
+  "id": "g619mdlgb5gmcqo6t60dhq5k",
+  "name": "Penangguhan dan Cicilan UKT",
+  "links": [
+    {
+      "id": "rcv904fmg6yo0hscnn5aj2cc",
+      "name": "Berkas 2024",
+      "items": [
+        {
+          "id": "hcoavr1lhdyaq33vky9nbpw7",
+          "name": "Surat Pernyataan SNBP",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.3/www/documents/hcoavr1lhdyaq33vky9nbpw7.pdf"
+        },
+        {
+          "id": "ott5gs4ebxyjk2sdshv8dhtd",
+          "name": "Surat Pengumuman Penangguhan SNBP",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.3/www/documents/ott5gs4ebxyjk2sdshv8dhtd.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mef53vi1twxw2oop7d8lpp4e",
+      "name": "Berkas 2023",
+      "items": [
+        {
+          "id": "zshpoouilvzb96bdgq3alz3q",
+          "name": "Surat Pernyataan SNBP/SNBT/PI/Pasca Sarjana",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.3/www/documents/zshpoouilvzb96bdgq3alz3q.pdf"
+        },
+        {
+          "id": "f6ujhzintp8t516r2p26j80r",
+          "name": "Surat Pernyataan SM",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.3/www/documents/f6ujhzintp8t516r2p26j80r.pdf"
+        },
+        {
+          "id": "lduql9xgwpznp5xtoptwayt5",
+          "name": "Surat Pengumuman Penangguhan",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.3/www/documents/lduql9xgwpznp5xtoptwayt5.pdf"
+        }
+      ]
+    }
+  ]
+}
