@@ -1,0 +1,27 @@
+{
+  "id": "eqcslia7fe8lnq6opbu88pep",
+  "name": "Dokumen Organisasi",
+  "links": [
+    {
+      "id": "xhtlbm8bxz5cyywgu78y4ts6",
+      "name": "Dokumen Organisasi 2024",
+      "items": [
+        {
+          "id": "v86jeby6jorufvyehmn6i7hq",
+          "name": "Mekanisme Kerja Organisasi",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.4/www/documents/MKO-HIMARPL-2024.pdf"
+        },
+        {
+          "id": "df9hx5nzjgcylht90ntystya",
+          "name": "Garis-Garis Besar Haluan Kerja",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.4/www/documents/GBHK-HIMARPL-2024.pdf"
+        },
+        {
+          "id": "jsm8lsflc4bnladmq6hli2pn",
+          "name": "Anggaran Dasar Dan Anggaran Rumah Tangga",
+          "href": "https://cdn.jsdelivr.net/gh/himarplupi/assets-himarpl@v1.3.4/www/documents/AD-ART-HIMARPL-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
